@@ -1,6 +1,6 @@
 name: image_cache_uint8list
 description: Download image from URL, cache it, and return Uint8List.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/thatbauaon-lo/image_cache_uint8list
 
 environment:

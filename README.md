@@ -33,7 +33,7 @@ flutter pub get
 
 ## 📸 Demo
 
-![Demo](assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/thatbauaon-lo/image_cache_uint8list/main/assets/demo.gif)
 
 This example demonstrates:
 - Image loading as `Uint8List`

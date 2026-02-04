@@ -1,6 +1,6 @@
 name: image_cache_uint8list
 description: Download image from URL, cache it, and return Uint8List.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/thatbauaon-lo/image_cache_uint8list
 
 environment:
@@ -20,3 +20,7 @@ dev_dependencies:
   path_provider_platform_interface: ^2.0.0
   plugin_platform_interface: ^2.1.8
   sqflite_common_ffi: ^2.3.0
+
+flutter:
+  assets:
+    - assets/demo.gif

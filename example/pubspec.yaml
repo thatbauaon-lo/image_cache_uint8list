@@ -1,0 +1,16 @@
+name: image_cache_uint8list_example
+description: Example app for image_cache_uint8list
+publish_to: "none"
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  image_cache_uint8list:
+    path: ../
+
+flutter:
+  uses-material-design: true

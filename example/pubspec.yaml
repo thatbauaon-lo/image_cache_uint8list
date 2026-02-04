@@ -12,5 +12,8 @@ dependencies:
   image_cache_uint8list:
     path: ../
 
+dev_dependencies:
+  flutter_lints: ^3.0.0
+
 flutter:
   uses-material-design: true
